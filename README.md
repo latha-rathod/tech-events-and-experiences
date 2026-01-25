@@ -29,7 +29,6 @@ I felt inspired to explore *AI agent development and orchestration* for future p
 
 ## ☁ Google Cloud AI Labs 2025 Bootcamp – Anurag University
 
-📅 *Date:* [Enter date here]  
 🏢 *Venue:* Anurag University, Hyderabad  
 
 I attended the *Google Cloud AI Labs 2025 Bootcamp* at Anurag University.  
@@ -46,6 +45,53 @@ This event deepened my understanding of *AI and Data Science*, and motivated me 
 🏷 *Tags:* #GoogleCloud #AgenticAI #AI #Learning #Networking
 
 ---
+
+# 🌐 Offline Community Connect – Hyderabad
+
+📍 **Organizer:** Indian Data Club  
+📅 **Location:** Hyderabad  
+🎯 **Event Type:** Offline Tech Community Meetup  
+
+---
+
+## 🧠 Key Takeaways
+
+### ☁️ Cloud SaaS Evolution in the AI Era
+- Understood how AI is reshaping SaaS products  
+- Learned about AI-driven decision-making and scalability  
+
+### 📊 Data Engineering after the AI Inflection Point
+- Importance of data quality in AI systems  
+- Role of reliable data pipelines in production-ready AI  
+- Focus on scalability and system robustness  
+
+### 🧩 Interactive Quiz & Discussions
+- Reinforced concepts through real-time problem-solving  
+- Peer discussions improved clarity and confidence  
+
+### 🤝 Networking Session
+- Connected with data professionals and learners  
+- Gained insights into career paths and industry expectations  
+
+---
+
+## 🎯 Learnings & Outcomes
+- Clear understanding of modern data engineering trends  
+- Exposure to industry-relevant AI + SaaS use cases  
+- Improved perspective on career growth in data & AI roles  
+
+---
+
+## 📸 Event Highlights
+- Community-driven learning  
+- Knowledge sharing and open discussions  
+- Strong networking experience  
+
+---
+
+## 🙏 Final Note
+Grateful for the learning opportunity and the engaging community discussions.  
+Looking forward to applying these insights in future projects and learning journeys.
 
 ### 🌟 More events coming soon!
 
